@@ -22,3 +22,5 @@ So 12 Test in all, make sure you use the methods that most commonly describe why
 #### Note: this is really only a series of tests that you are writing. All your code should go only in the Test portion of the project.
 
 #### Note: import what you need to test all the classes mentions.
+
+##### You may want/need a collection of code you've written that reminds you how to use a particular class.
