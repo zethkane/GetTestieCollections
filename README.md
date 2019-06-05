@@ -6,7 +6,7 @@ create a project where you write 1 or 2 tests for each every one of these Collec
 The class should be, say, TestHashMap, and then have a TestHasMap methid which uses the various methods you deem useful.
 
 
-For the Set interface, HashSet is the most commonly used implementation.
+For the Set interface, __HashSet__ is the most commonly used implementation.
 For the List interface, ArrayList is the most commonly used implementation.
 For the Map interface, HashMap is the most commonly used implementation.
 For the Queue interface, LinkedList is the most commonly used implementation.
