@@ -1,9 +1,9 @@
-package gettestie.src.test.java.rocks.zipcode;
+package rocks.zipcode;
 
 import static org.junit.Assert.*;
 import java.util.Stack;
 
-public class StackTest {
+public class TestStack {
 
     @org.junit.Before
     public void setUp() throws Exception {
