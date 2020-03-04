@@ -20,5 +20,9 @@ public class TestStack {
         assertEquals(false, stack.isEmpty()); // false
     }
 
+    @Test
+    public void TestStack2P(){
+
+    }
     // Make a bigger test exercising more Stack methods.....
 }
